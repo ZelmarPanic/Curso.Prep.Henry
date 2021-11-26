@@ -5,7 +5,7 @@ const nuevaString = "Bienvenido";
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
-
+var 10;
 // Crea una variable booleana:
 const nuevoBool = null;
 
@@ -108,6 +108,7 @@ function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
+//Para elevar al cuadrado debo usar operación matemática...
   
 }
 
